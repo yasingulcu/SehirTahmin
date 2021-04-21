@@ -1,0 +1,10 @@
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\bin\Debug\SehirCalisma.exe.config
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\bin\Debug\SehirCalisma.exe
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\bin\Debug\SehirCalisma.pdb
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\obj\Debug\SehirCalisma.csprojAssemblyReference.cache
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\obj\Debug\SehirCalisma.Form1.resources
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\obj\Debug\SehirCalisma.Properties.Resources.resources
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\obj\Debug\SehirCalisma.csproj.GenerateResource.cache
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\obj\Debug\SehirCalisma.csproj.CoreCompileInputs.cache
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\obj\Debug\SehirCalisma.exe
+C:\Users\ysg02\source\repos\SehirCalisma\SehirCalisma\obj\Debug\SehirCalisma.pdb
